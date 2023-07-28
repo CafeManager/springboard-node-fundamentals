@@ -1,0 +1,13 @@
+.background-color{
+    background-color: #408928;
+}
+
+.card-holder{
+    position: relative
+}
+
+.deck-card{
+    position: absolute;
+    left: 30%;
+    top: 10vh
+}
